@@ -1,0 +1,11 @@
+streamlit
+yfinance
+pandas
+plotly
+python-dotenv
+transformers
+torch
+accelerate
+kaleido
+ta
+nest_asyncio 
