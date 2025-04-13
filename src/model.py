@@ -61,7 +61,7 @@ def generate_technical_analysis(img_bytes, tkr, timeframe, selected_indicators_c
             {
                 "role": "system",
                 "content": [
-                    {"type": "text", "text": "You are an expert Financial Analyst who focuses on Technical Analysis."}
+                    {"type": "text", "text": "You are an expert Financial Analyst who focuses on Macroeconomic Data and Technical Analysis."}
                 ]
             },
             {

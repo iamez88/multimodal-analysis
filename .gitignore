@@ -26,3 +26,6 @@ build/
 # OS specific files
 .DS_Store
 Thumbs.db 
+
+# Project specific
+fine_tuning_data/create_labeled_data.py 
