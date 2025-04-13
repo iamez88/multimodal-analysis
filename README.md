@@ -5,9 +5,6 @@
 
 This project uses the Gemma 3 multimodal model to analyze financial data from stock charts and economic indicators. It also uses the Hugging Face SFTTrainer to fine-tune the model with user generated labeled data.
 
-![alt text](https://github.com/iamez88/multimodal-analysis/blob/master/screenshot/multimodal_streamlit_1.png "1")
-![alt text](https://github.com/iamez88/multimodal-analysis/blob/master/screenshot/multimodal_streamlit_2.png "2")
-
 ## Features
 
 - Retrieval of macro data from Fred and stock charts with technical indicators
