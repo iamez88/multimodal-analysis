@@ -1,4 +1,4 @@
-# Multimodal Technical/Macro Analysis (Showcase Project)
+# Multimodal Technical/Macro Analysis
 
 
 ## Overview
